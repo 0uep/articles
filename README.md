@@ -1,17 +1,17 @@
 # Articles LinuxFr.org
 
-:fr: L’ambition de ce dépôt Git est permettre à tous les contributeurs de LinuxFr.org de stocker ici tous les fichiers associés à leurs dépêches et journaux : images, animations, musiques, vidéos et tout autres fichiers. Idéalement, avec la dernière version des articles.
+🇫🇷 L’ambition de ce dépôt Git est permettre à tous les contributeurs de LinuxFr.org de stocker ici tous les fichiers associés à leurs dépêches et journaux : images, animations, musiques, vidéos et tout autres fichiers. Idéalement, avec la dernière version des articles.
 
-:uk: This Git repo aims to allow all LinuxFr.org contributors to store all the files associated to their articles: images, animations, musics, videos and any other files. Ideally, with the last version of the related articles.
+🇬🇧 This Git repo aims to allow all LinuxFr.org contributors to store all the files associated to their articles: images, animations, musics, videos and any other files. Ideally, with the last version of the related articles.
 
 ```
 sudo apt install git git-lfs   # Debian / Ubuntu
-git clone https://github.com/LinuxFr.org/media
+git clone https://github.com/linuxfrorg/articles
 ```
 
 ## Textes & images
 
-### :fr: Tous les fichiers des articles LinuxFr.org
+### 🇫🇷 Tous les fichiers des articles LinuxFr.org
 
 L’espace de rédaction de LinuxFr.org permet un travail collaboratif.
 Néanmoins, ce n’est pas le cas des illustrations qui ne sont pas hébergées sur LinuxFr.org.
@@ -21,7 +21,7 @@ Ce dépôt Git a donc un double objectif :
 - espace collaboratif pour les images (et autres fichiers média) ;
 - meilleure pérennité des fichiers associés aux dépêches.
 
-### :uk: All the LinuxFr.org articles files
+### 🇬🇧 All the LinuxFr.org articles files
 
 LinuxFr.org has a collaborative space allowing multiple contributors to write together new articles.
 However, this only concerns the text: Illustration is missing collaborative autoring tools, and even hosting!
@@ -34,7 +34,7 @@ Therefore, this Git repo has a double purpose:
 
 ## Git LFS (Large File Storage)
 
-### :fr: Illimité
+### 🇫🇷 Illimité
 
 Un dépôt Git peut contenir tout l’historique d’un projet très actif sur de nombreuses années et nécessiter peu d’espace de stockage.
 Par contre, cela ne fonctionne qu’avec des fichiers *texte* : le code source.
@@ -46,7 +46,7 @@ anciennes révisions de chaque fichier binaire volumineux, ou le fait de cloner 
 
 Si des fichiers très volumineux sont stockés, comme un court métrage avec ses *rushs* en haute résolution (beaucoup de To), nous pouvons imaginer l’utilisation des branches, afin de contenir l’espace nécessaire au clonage de ce dépôt Git. Une autre alternative seraient la création d’autant de dépôts Git que d’articles utilisant des fichiers aussi volumineux. On avisera le moment venu…
 
-### :uk: Unlimited
+### 🇬🇧 Unlimited
 
 A Git repository can contain the entire history of a very active project over many years and still require little storage space. However, this only works with *text* files: the source code.
 
@@ -58,23 +58,23 @@ If very large files are stored, like a movie with high resolution rushes (many T
 
 ## Original & export
 
-### :fr: Pensez à archiver les originaux
+### 🇫🇷 Pensez à archiver les originaux
 
 Idéalement, les différents fichiers et les scripts ayant permis la réalisation des illustrations finales devraient aussi être archivés. La présence de différentes ébauches est également possible. Nous acceptons même l’export dans différents formats.
 
-### :uk: Also archive the originals
+### 🇬🇧 Also archive the originals
 
 Ideally, the different files and scripts that allowed the realization of the final illustrations should also be archived. The presence of different drafts is also possible. We even accept export in different formats.
 
 ## Licence
 
-### :fr: Toute licence acceptée
+### 🇫🇷 Toute licence acceptée
 
 La licence des fichiers illustrant les dépêches (et journaux) LinuxFr.org ne sont pas toujours connus.
 Bien que nous soyons amoureux des licences libres, nous restons pragmatiques et acceptons des fichiers dont l’origine a été oubliée…
 Néanmoins, quand cela est possible, merci de fournir la licence de chaque sous-élement qui compose le fichier final.
 
-### :uk: Any licence accepted
+### 🇬🇧 Any licence accepted
 
 The license of the files illustrating the LinuxFr.org articles are not always known.
 Although we are in love with free licences, we remain pragmatic and accept files whose origin has been forgotten…
