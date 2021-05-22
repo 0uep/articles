@@ -15,7 +15,7 @@ Pour cette rentrée 2019, faisons le point sur Python : actualité, bonnes prati
 
 Cette troisième dépêche présente différentes façons d’installer Python, ainsi que l’installation de paquets supplémentaires : applications et bibliothèques Python.  🖥 💻 🐍
 
-[![Python installation](3.webp)](https://github.com/linuxfr.org/articles/tree/main/python/2019-2021)
+[![Python installation](03.webp)](https://github.com/linuxfr.org/articles/tree/main/python/2019-2021)
 
 ----
 

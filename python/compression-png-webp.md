@@ -2,6 +2,10 @@ Je partage dans ce commentaire mes trouvailles pour réduire davantage les image
 
 J’ai testé les outils [`pngcrush`](https://en.wikipedia.org/wiki/Pngcrush), [`pngnq`](https://github.com/stuart/pngnq), [`pngquant`](https://github.com/kornelski/pngquant) et [Trimage](https://trimage.org/). Ce dernier outil, Trimage, est une application graphique qui se base sur les outils [`pngcrush`](https://en.wikipedia.org/wiki/Pngcrush), [`optipng`](http://optipng.sourceforge.net/), et [`advpng`](https://en.wikipedia.org/wiki/AdvanceCOMP).
 
+
+TODO
+https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
+
 Installation
 ------------
 

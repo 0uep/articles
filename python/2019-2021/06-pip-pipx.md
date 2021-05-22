@@ -23,7 +23,7 @@ Pour rappel, les dépêches précédentes :
 * [Python — partie 4](https://linuxfr.org/news/python-pour-noel-2019-partie-4-py-pyenv) vous présentait `py` et `pyenv` pour faciliter la gestion de plusieurs versions de Python en parallèle sur un poste
 * [Python — partie 5](https://linuxfr.org/news/python-partie-5-nix-et-guix) vous faisait découvrir un autre moyen de gérer l’installation en parallèle de différentes versions de Python
 
-[![Le logo de Python est entouré de petites icônes symbolisant la variété des domaines où s’applique Python, et, à droite, un joyeux barbu se tient derrière un écran d’ordinateur qui affiche « partie = 6, "Pip Pipx" \n print(partie) »](6.webp)](https://github.com/linuxfr.org/articles/tree/main/python/2019-2021-n6.webp)
+[![Le logo de Python est entouré de petites icônes symbolisant la variété des domaines où s’applique Python, et, à droite, un joyeux barbu se tient derrière un écran d’ordinateur qui affiche « partie = 6, "Pip Pipx" \n print(partie) »](06.webp)](https://github.com/linuxfr.org/articles/tree/main/python/2019-2021-n6.webp)
 
 ----
 

@@ -17,7 +17,7 @@ Cette partie **2** traite de Python **2**. 🐍 🐍 Oui, c’est la [fin](h
 
 Allez, on se raconte toutes nos anecdotes dans les commentaires.
 
-[![Un barbu présente le logo de Python](2.webp)](https://github.com/linuxfr.org/articles/tree/main/python/2019-2021)
+[![Un barbu présente le logo de Python](02.webp)](https://github.com/linuxfr.org/articles/tree/main/python/2019-2021)
 
 ----
 

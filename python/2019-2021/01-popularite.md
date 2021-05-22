@@ -15,7 +15,7 @@ Pour cette rentrée 2019, faisons le point sur Python : actualité, bonnes pra
 
 Cette première partie présente la popularité de Python, chiffres à l’appui. Mais qu’est ce qui explique qu’un vieux langage de vingt‐cinq ans, lent et dont l’indentation influence la compilation, puisse être aussi populaire ?
 
-[![Un barbu présente le logo de Python](1.webp)](https://www.newgenapps.com/blog/python-in-2019)
+[![Un barbu présente le logo de Python](01.webp)](https://www.newgenapps.com/blog/python-in-2019)
 
 ----
 

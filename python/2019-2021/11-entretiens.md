@@ -14,7 +14,7 @@ Python 2019/2021 — partie 9 — Entretiens
 
 Pour cette dépêche, nous donnons la parole à celles et ceux qui pratiquent le langage de programmation Python : des développeuses et développeurs de différents domaines, mais aussi d’autres métiers comme les scientifiques des données *(data scientists)*, les scientifiques de l’apprentissage automatique *(machine learning)*, les analystes quantitatifs *(quant)*… et bien d’autres…
 
-[![Un barbu se tien derrière un écran d'ordinateur qui affiche « partie = 13, "Entretiens" \n print(partie) » et à droite le logo de Python (deux serpents stylisés) entouré de petites icônes symbolisant la variété des domaines où s'applique Python.](9.webp)](https://github.com/linuxfr.org/articles/tree/main/python/2019-2021)
+[![Un barbu se tien derrière un écran d'ordinateur qui affiche « partie = 13, "Entretiens" \n print(partie) » et à droite le logo de Python (deux serpents stylisés) entouré de petites icônes symbolisant la variété des domaines où s'applique Python.](11.webp)](https://github.com/linuxfr.org/articles/tree/main/python/2019-2021)
 
 ----
 
