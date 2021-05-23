@@ -14,7 +14,7 @@ Python 2019/2021 — partie 5 — Nix (et Guix)
 
 Dans les précédentes dépêches, nous avons discuté de la [popularité de Python](https://linuxfr.org/news/python-pour-la-rentree-2019-partie-1), la [fin de la maintenance de Python 2](https://linuxfr.org/news/python-pour-la-rentree-2019-partie-2), les [différentes variantes](https://linuxfr.org/news/python-pour-la-rentree-2019-partie-3-installation-de-python-et-de-paquets) de Python, comment les faire [cohabiter avec Py et Pipenv](https://linuxfr.org/news/python-pour-la-rentree-2019-partie-4-py-pyenv)…
 
-Dans la continuité de la précédente dépêche, cette dépêche présente une autre approche pour faire cohabiter différentes versions de Python sur un même ordinateur : [Nix](https://fr.wikipedia.org/wiki/Nix). 🚀 🐍 💫 [![Le logo de Python entouré de petites icônes symbolisant la variété des domaines où s’applique Python, et à droite, un joyeux barbu se tient derrière un écran d’ordinateur qui affiche « partie = 5, "Conda Docker" \n print(partie) »](05.webp)](https://github.com/linuxfr.org/articles/tree/main/python/2019-2021)
+Dans la continuité de la précédente dépêche, cette dépêche présente une autre approche pour faire cohabiter différentes versions de Python sur un même ordinateur : [Nix](https://fr.wikipedia.org/wiki/Nix). 🚀 🐍 💫 [![Le logo de Python entouré de petites icônes symbolisant la variété des domaines où s’applique Python, et à droite, un joyeux barbu se tient derrière un écran d’ordinateur qui affiche « partie = 5, "Conda Docker" \n print(partie) »](05.webp)](https://github.com/linuxfrorg/articles/tree/main/python/2019-2021)
 
 ----
 

@@ -14,7 +14,7 @@ Python 2019/2021 — partie 7 — Environnements virtuels
 
 Cette septième dépêche présente les environnements virtuels Python et ses alternatives comme la conteneurisation, le tout avec plein d’astuces et de conseils pour bien s’en sortir. 🚀 🐍
 
-[![Le logo de Python est entouré de petites icônes symbolisant la variété des domaines où s’applique Python, et, à droite, un joyeux barbu se tient derrière un écran d’ordinateur qui affiche « partie = 7, "Env. Virtuels" \n print(partie) »](07.webp)](https://github.com/linuxfr.org/articles/tree/main/python/2019-2021)
+[![Le logo de Python est entouré de petites icônes symbolisant la variété des domaines où s’applique Python, et, à droite, un joyeux barbu se tient derrière un écran d’ordinateur qui affiche « partie = 7, "Env. Virtuels" \n print(partie) »](07.webp)](https://github.com/linuxfrorg/articles/tree/main/python/2019-2021)
 
 ----
 

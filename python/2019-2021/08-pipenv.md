@@ -24,7 +24,7 @@ Pour rappel, les dépêches précédentes :
 * [Python — partie 5](https://linuxfr.org/news/python-partie-5-nix-et-guix) qui dissertait de Nix (et Guix) ;
 * [Python — partie 7](https://linuxfr.org/news/python-pour-noel-202x-partie-7-environnements-virtuels) évoquait les environnements virtuels Python et ses alternatives comme la conteneurisation, le tout avec plein d’astuces et de conseils pour bien s’en sortir.
 
-[![Le logo de Python est entouré de petites icônes symbolisant la variété des domaines où s’applique Python, et, à droite, un joyeux barbu se tient derrière un écran d’ordinateur qui affiche « partie = 8, "Pipenv" \n print (partie) »](08.webp)](https://github.com/linuxfr.org/articles/tree/main/python/2019-2021)
+[![Le logo de Python est entouré de petites icônes symbolisant la variété des domaines où s’applique Python, et, à droite, un joyeux barbu se tient derrière un écran d’ordinateur qui affiche « partie = 8, "Pipenv" \n print (partie) »](08.webp)](https://github.com/linuxfrorg/articles/tree/main/python/2019-2021)
 
 ----
 
